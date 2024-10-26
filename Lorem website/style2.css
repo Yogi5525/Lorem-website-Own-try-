@@ -1,0 +1,63 @@
+.words{
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 1%;
+    text-align:justify;
+}
+.position{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 2%;
+    text-align: justify;
+}
+.mouse{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 2%;
+    text-align: justify;
+}
+
+.pic{
+    height:10%;
+    width: 10%;
+    padding-top: 0.1%;
+}
+.edam{
+    width: 18%;
+    border-radius: 25px;
+    height: 25px;
+    border-color:rgb(137, 205, 137);
+    text-align: center;
+}
+.photo{
+    height: 400px;
+    width: 1000px;
+}
+.bot{
+    background-image: url(lap.png);
+    background-position: center;
+    background-size: 100% 100%;
+}
+.title{
+    color: black;
+    font-family:serif;
+    padding: 2%;
+}
+.key{
+    mix-blend-mode: multiply;
+    opacity: 1;
+}
+.potti{
+    border-radius: 20%;
+    color: rgb(255, 255, 255);
+    background-color:#2F647B;
+    opacity: 50%;
+    padding: 14px;
+    width: 8%;
+    border-color: black;
+}
+.potti:hover{
+    background-color: rgb(234, 230, 230);
+    color: black;
+}
